@@ -1,0 +1,72 @@
+1). 
+  True and False
+2).
+  and, or, not
+3).
+  A B AandB
+  0 0 0
+  0 1 0
+  1 0 0
+  1 1 1
+  
+  A B AorB
+  0 0 0
+  1 0 1
+  0 1 1
+  1 1 1
+  
+  A notA
+  0 1
+  1 0
+  
+4). 
+  False
+  False
+  True
+  False
+  False
+  True
+ 
+5).
+  >, <, ==, >=, <=, !=
+  
+6). 
+  if (A == B) - Equal will be used for condition
+  A = B - B value will be assigned to A
+  
+7).
+  ham
+  spam
+  spam
+  
+8).
+  if (spam == 1):
+    print ("Hello")
+  elif (spam == 2):
+    print ("Howdy")
+  else:
+    print ("Greetings!")
+    
+9). 
+  CTRL + C
+  
+10).
+  
+  break - to come out from condition and loop
+  continue - to continue and execute the next iterable
+  
+11). 
+  All are same
+  
+12).
+  for i in range(1, 11):
+    print (i)
+  
+  j = 1
+  while j < 11:
+    print (j)
+    j = j + 1
+    
+ 13). 
+     from spam import bacon
+     bacon()
