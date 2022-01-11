@@ -1,0 +1,36 @@
+1).
+Values: -87.8, 6, 'hello'
+Expressions: *,-,/,+
+
+2).
+String:- Collection of characters
+Variables: which changes values as per the program instance
+
+3).
+int, float, char
+
+4).
+Expressions made up of operators and operands
+Expression calculates and gives result.
+
+5).
+spam = 10
+Assignment assigns value to a variables, there is no calculation involvement.
+In an expression, mathematical operations will happen.
+
+6).
+22
+
+7).
+spamspamspam
+spamspamspam
+
+8).
+variable should not start with a number
+
+9).
+int()
+float()
+str()
+
+10). 'I haven eaten'+str(99)+'burritos'
